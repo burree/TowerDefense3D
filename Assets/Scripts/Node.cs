@@ -24,7 +24,7 @@ public class Node : MonoBehaviour
     void OnMouseDown ()
     {
 
-        if ()
+        //if ()
 
         if (turret != null)
         {
