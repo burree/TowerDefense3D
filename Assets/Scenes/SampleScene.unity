@@ -9108,6 +9108,10 @@ MonoBehaviour:
   scrollSpeed: 5
   minY: 10
   maxY: 80
+  minX: -50
+  maxX: 50
+  minZ: -50
+  maxZ: 50
 --- !u!1001 &965461765
 PrefabInstance:
   m_ObjectHideFlags: 0
